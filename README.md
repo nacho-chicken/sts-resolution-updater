@@ -17,7 +17,7 @@ completely impossible.
 ## Install Guide
 1. Place sts-update-resolution.sh in the game install folder,
 or some other convenient location
-2. Set your Steam launch options to
+2. Set your Steam launch options for Slay the Spire to
 `/bin/bash [PATH TO SCRIPT HERE]/sts-update-resolution.sh; %command%`
 3. Running the game now updates the resolution!
 
